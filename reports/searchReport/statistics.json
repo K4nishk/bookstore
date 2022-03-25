@@ -1,0 +1,34 @@
+{
+  "HTTP Request for search path" : {
+    "transaction" : "HTTP Request for search path",
+    "sampleCount" : 18000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 162.2979999999998,
+    "medianResTime" : 111.0,
+    "minResTime" : 12.0,
+    "maxResTime" : 1804.0,
+    "pct1ResTime" : 404.0,
+    "pct2ResTime" : 490.0,
+    "pct3ResTime" : 683.9900000000016,
+    "throughput" : 35.85521663522696,
+    "receivedKBytesPerSec" : 1177.8648753832026,
+    "sentKBytesPerSec" : 4.621961519384724
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 18000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 162.2979999999998,
+    "medianResTime" : 111.0,
+    "minResTime" : 12.0,
+    "maxResTime" : 1804.0,
+    "pct1ResTime" : 404.0,
+    "pct2ResTime" : 490.0,
+    "pct3ResTime" : 683.9900000000016,
+    "throughput" : 35.85521663522696,
+    "receivedKBytesPerSec" : 1177.8648753832026,
+    "sentKBytesPerSec" : 4.621961519384724
+  }
+}
